@@ -1,15 +1,12 @@
-use std::process::Command;
 use sysinfo::{System};
+use colored::*;
 
 fn main() {
-	println!(" ##  RCH");
-	println!("#  # rch");
-	println!("#### RCH");
-	println!("#  # rch");
-	println!("#  # RCH");
-    Command::new("whoami")
-        .spawn()
-        .expect("Error!");
+	println!("{}", " ##  RCH".blue());
+	println!("{}", "#  # rch".blue());
+	println!("{}", "#### RCH".blue());
+	println!("{}", "#  # rch".blue());
+	println!("{}", "#  # RCH".blue());
 
 	let mut sys = System::new_all();
 
