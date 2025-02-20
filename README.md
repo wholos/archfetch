@@ -3,6 +3,7 @@
 
 How to install!?
 ``` bash
+sudo pacman -S nerd-fonts
 git clone https://github.com/wholos/archfetch
 cd archfetch/
 cargo build --release
