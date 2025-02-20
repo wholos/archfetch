@@ -1,5 +1,5 @@
 # archfetch
-![1 Screen](https://github.com/wholos/archfetch/blob/main/archfetch.png)
+![1 Screen](https://github.com/wholos/archfetch/blob/main/archfetch2.png)
 
 How to install!?
 ``` bash
