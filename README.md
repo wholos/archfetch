@@ -4,19 +4,19 @@
 How to install!?
 ``` bash
 sudo pacman -S nerd-fonts git rust cargo rust-analyzer
-git clone https://github.com/wholos/archfetch
-cd archfetch/
-cargo new archfetch
-sudo cp Cargo.toml archfetch/Cargo.toml
-sudo cp main.rs archfetch/src/main.rs
-cd archfetch/
+git clone https://github.com/wholos/lefetch
+cd lefetch/
+cargo new lefetch
+sudo cp Cargo.toml lefetch/Cargo.toml
+sudo cp main.rs lefetch/src/main.rs
+cd lefetch/
 cargo build --release
 cargo install --path .
-sudo cp archfetch /usr/local/bin/archfetch
+sudo cp lefetch /usr/local/bin/lefetch
 ```
 Ready!
 
 How to use!?
 ``` bash
-archfetch
+lefetch
 ```
