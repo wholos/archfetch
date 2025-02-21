@@ -1,5 +1,5 @@
 # lefetch
-![1 Screen](https://github.com/wholos/archfetch/blob/main/archfetch2.png)
+![1 Screen](https://github.com/wholos/archfetch/blob/main/lefetch.png)
 
 How to install!?
 ``` bash
