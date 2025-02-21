@@ -1,5 +1,5 @@
 [package]
-name = "archfetch"
+name = "lefetch"
 version = "0.1.0"
 edition = "2021"
 
