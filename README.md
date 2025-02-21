@@ -1,9 +1,9 @@
-# archfetch
+# lefetch
 ![1 Screen](https://github.com/wholos/archfetch/blob/main/archfetch2.png)
 
 How to install!?
 ``` bash
-sudo pacman -S nerd-fonts git rust cargo rust-analyzer
+sudo pacman -S git rust cargo rust-analyzer
 git clone https://github.com/wholos/lefetch
 cd lefetch/
 cargo new lefetch
